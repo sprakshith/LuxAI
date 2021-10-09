@@ -1,1 +1,1 @@
-# LuxAI
+LuxAI Started Kit Code
